@@ -1,0 +1,2 @@
+cd ~/Downloads/MorphoGlia-main/MorphoGlia_Interface
+onda env create -f morphoglia.yml
